@@ -1,3 +1,10 @@
 data/
 saved/
 .conda/
+/utils.ipynb
+/main.ipynb
+/original.ipynb
+/train.ipynb
+/b-SER-GPU.ipynb
+/b_SER_1024.ipynb
+/b_SER_1024 Original.ipynb
